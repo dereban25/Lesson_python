@@ -5,7 +5,7 @@ enemy ={
     'loc y': 50,
     'color': 'green',
     'health': 100,
-    'name': 'Dereban',
+    'name': 'Deban',
 }
 
 print('Location object in X position '+str(enemy['loc x']))
